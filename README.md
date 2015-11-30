@@ -1,2 +1,7 @@
-# iTunesMovieTrailers
-A simple android project to show iTunes movie trailers. The whole project is based on iTunesMovieTrailers project provided by Professor Gerald Hurdle.
+##iTunes Movie Trailers for Android##
+
+Please read the *//TODO* items that I've left for you :)
+
+(Android Studio -> View -> Tool Windows... -> TODO)
+
+/g
